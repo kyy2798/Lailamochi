@@ -119,21 +119,21 @@
 
 <div class="menu-container">
     <div class="card">
-        <img src="mochi-cokelat.jpg" alt="Mochi Chocolate">
+        <img src="coklat.jpg" alt="Mochi Chocolate">
         <h3 id="p1-title">Cokelat Belgia</h3>
         <p id="p1-desc">Isian cokelat lumer yang melimpah.</p>
         <a href="https://wa.me/6285778508125?text=Halo,%20saya%20mau%20pesan%20Mochi%20Cokelat" class="btn-order" id="p1-btn">Pesan via WA</a>
     </div>
 
     <div class="card">
-        <img src="mochi-matcha.jpg" alt="Mochi Matcha">
+        <img src="matcha.jpg" alt="Mochi Matcha">
         <h3 id="p2-title">Matcha Kyoto</h3>
         <p id="p2-desc">Rasa teh hijau autentik yang menenangkan.</p>
         <a href="https://wa.me/6285778508125?text=Halo,%20saya%20mau%20pesan%20Mochi%20Matcha" class="btn-order" id="p2-btn">Pesan via WA</a>
     </div>
 
     <div class="card">
-        <img src="mochi-strawberry.jpg" alt="Mochi Strawberry">
+        <img src="strawberry.jpg" alt="Mochi Strawberry">
         <h3 id="p3-title">Strawberry Cheese</h3>
         <p id="p3-desc">Perpaduan asam segar dan keju gurih.</p>
         <a href="https://wa.me/6285778508125?text=Halo,%20saya%20mau%20pesan%20Mochi%20Strawberry" class="btn-order" id="p3-btn">Pesan via WA</a>
